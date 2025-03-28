@@ -1,0 +1,17 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "hello" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello, this is string from \"Swift Package\""
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
