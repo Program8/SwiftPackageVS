@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B645D0A22D97B95500E4ADD6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B645D0A12D97B93500E4ADD6 /* README.md */; };
 		B6855D772D9127DC003A9809 /* iOSProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6855D762D9127DC003A9809 /* iOSProjectApp.swift */; };
 		B6855D792D9127DC003A9809 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6855D782D9127DC003A9809 /* ContentView.swift */; };
 		B6855D7B2D9127DE003A9809 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6855D7A2D9127DE003A9809 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B645D0A12D97B93500E4ADD6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B6855D732D9127DC003A9809 /* iOSProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOSProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6855D762D9127DC003A9809 /* iOSProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSProjectApp.swift; sourceTree = "<group>"; };
 		B6855D782D9127DC003A9809 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				B6855D902D9127DE003A9809 /* iOSProjectUITests */,
 				B6855D742D9127DC003A9809 /* Products */,
 				B6855DA12D912A22003A9809 /* Frameworks */,
+				B645D0A12D97B93500E4ADD6 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B645D0A22D97B95500E4ADD6 /* README.md in Resources */,
 				B6855D7E2D9127DE003A9809 /* Preview Assets.xcassets in Resources */,
 				B6855D7B2D9127DE003A9809 /* Assets.xcassets in Resources */,
 			);
