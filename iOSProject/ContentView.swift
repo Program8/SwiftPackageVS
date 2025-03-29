@@ -9,7 +9,7 @@ import MySwiftPackage
 struct ContentView: View {
     let fontTitle = Font.title2
     let fontSubTitle = Font.title3
-    @State private var fileContents: String = " "
+    @State private var fileContents: String = ""
     var body: some View{
         VStack{
             Text("This screen demonstrates how to access different types of files from \"Swift Packages\"")
