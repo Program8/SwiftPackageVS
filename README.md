@@ -35,7 +35,7 @@
 - [Watch Tutorial](https://youtu.be/jEGGe7mbD6g)  
 
 2️⃣ **How to Add & Reuse Classes, SwiftUI Views, Images, Colors & Localized Strings in iOS Swift Package**  
-- *(Add your second video link here)* 
+- [Watch Tutorial](https://youtu.be/_Uamw6s-rSs) 
 
 3️⃣ **How to Publish and Share Your Swift Package with Other Developers Using Swift Package Manager**  
 - *(Coming soon)* 
