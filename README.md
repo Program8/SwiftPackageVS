@@ -34,8 +34,11 @@
 1️⃣ **How to create a Swift Package from scratch and add it to an existing or new Xcode project**  
 - [Watch Tutorial](https://youtu.be/jEGGe7mbD6g)  
 
-2️⃣ **Add Assets (Images, Colors, Strings) to a Swift Package & Use Them in Xcode Projects**  
-- *(Add your second video link here)*  
+2️⃣ **How to Add & Reuse Classes, SwiftUI Views, Images, Colors & Localized Strings in iOS Swift Package**  
+- *(Add your second video link here)* 
+3️⃣ **How to Publish and Share Your Swift Package with Other Developers Using Swift Package Manager**  
+- *(Coming soon)* 
+ 
 
 ---  
 
